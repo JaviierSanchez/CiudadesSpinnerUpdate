@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CiudadesSpinner</string>
+    <string name="txt_Resultado">Ciudad seleccionada:</string>
+    <string name="txt_Comparacion">Introduzca una ciudad:</string>
+    <string name="button">Comprobar</string>
+</resources>
